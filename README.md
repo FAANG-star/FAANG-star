@@ -1,14 +1,14 @@
 <div align="center">
-  <h2>🏆 Github Profile Trophy 🏆</h2>  
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JudeWine&no-bg=true&no-frame=true&theme=onedark&column=8" />
+  # 👋 Hi, I'm A-HA-823!
+  🚀 **Full Stack Engineer** | 🧠 **JavaScript**  | 📸 **Python** | 🚇📊 **LLM / RAG**
+  
+  ---
+  
+  <p align="center">
+    <a href="https://github.com/kaimatsuda29"><img
+        src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Expert;LLM%20and%20RAG%20Master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
+  </p>
 </div>
-
-<p align="center">
-<a href="https://github.com/JudeWine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudeWine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JudeWine&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
-</p>
 
 ## 💬 Talk with me
 
