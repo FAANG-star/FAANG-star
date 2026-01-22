@@ -1,14 +1,12 @@
-<div align="center">
-  # 👋 Hi, I'm A-HA-823!
-  🚀 **Full Stack Engineer** | 🧠 **JavaScript**  | 📸 **Python** | 🚇📊 **LLM / RAG**
-  
-  ---
-  
-  <p align="center">
-    <a href="https://github.com/kaimatsuda29"><img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Expert;LLM%20and%20RAG%20Master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
-  </p>
-</div>
+# 👋 Hi, I'm A-HA-823!
+🚀 **Full Stack Engineer** | 🧠 **JavaScript**  | 📸 **Python** | 🚇📊 **LLM / RAG**
+
+---
+
+<p align="center">
+  <a href="https://github.com/kaimatsuda29"><img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;JavaScript%20and%20Python%20Expert;LLM%20and%20RAG%20Master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=F7ED1FFF&vCenter=true&size=45%22"></a>
+</p>
 
 ## 💬 Talk with me
 
