@@ -24,6 +24,8 @@
 **Cloud AI Services:** AWS SageMaker, Azure OpenAI, Google Vertex AI, Bedrock
 
 ### 💻 Full Stack Development
+**Frontend:** React, Next.js, Vue.js, Nuxt.js, Angular, Redux, Zustand, TailwindCSS, MUI, Shadcn/ui, Responsive Design, Webpack, Vite
+
 **Backend:** Node.js, Express.js, Nest.js, Python, Django, FastAPI, Flask, GraphQL, RESTful APIs, Microservices, Serverless
 
 ## 💫 My🌟BEST🌟 SKILLS
