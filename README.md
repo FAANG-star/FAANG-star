@@ -212,10 +212,6 @@
       <br><strong>Swift</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br><strong>Kotlin</strong>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
       <br><strong>Android Studio</strong>
     </td>
