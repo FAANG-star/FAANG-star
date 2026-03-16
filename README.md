@@ -28,6 +28,8 @@
 
 **Backend:** Node.js, Express.js, Nest.js, Python, Django, FastAPI, Flask, GraphQL, RESTful APIs, Microservices, Serverless
 
+**Mobile:** React Native, Flutter, Expo, iOS (Swift), App Store Deployment
+
 ## 💫 My🌟BEST🌟 SKILLS
 
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
